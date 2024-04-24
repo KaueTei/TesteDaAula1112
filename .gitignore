@@ -1,8 +1,8 @@
-/SERVER/node_modules
-/SERVER/package-lock.json
+/node_modules
+/package-lock.json
 /esp826IOT/config.h
-/SERVER/.env
-/SERVER/node_modules
-/SERVER/package-lock.json
-/sistema-de-queda/SERVER/node_modules
-/sistema-de-queda/SERVER/package-lock.json
+/.env
+/node_modules
+/package-lock.json
+/node_modules
+/package-lock.json
